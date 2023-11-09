@@ -1,5 +1,7 @@
-Things to do:
+-Things to do:
 
 -practice java
 -practice git
 -practice JIRA
+-practice interview questions
+-do a lot of mock interviews
