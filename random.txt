@@ -1,0 +1,3 @@
+This is just a random file.
+
+We are testing the command prompt
